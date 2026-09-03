@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Grievance Portal",
+  "description": "AI-Based Citizen Grievance Classification System with urgency scoring, duplicate detection, and citizen & admin dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
